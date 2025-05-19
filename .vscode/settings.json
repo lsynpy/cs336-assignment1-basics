@@ -1,0 +1,15 @@
+{
+  "cSpell.words": [
+    "addopts",
+    "einops",
+    "einx",
+    "jaxtyping",
+    "numpy",
+    "psutil",
+    "pytest",
+    "setuptools",
+    "SLURM",
+    "submitit",
+    "wandb"
+  ]
+}
